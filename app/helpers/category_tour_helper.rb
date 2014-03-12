@@ -1,0 +1,2 @@
+module CategoryTourHelper
+end

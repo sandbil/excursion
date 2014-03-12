@@ -1,0 +1,41 @@
+<% if notice %>
+    <p id="notice"><%=notice%></p>
+<% end %>
+
+<div id = "tour">
+  <div id ="sidebar">
+    <% unless @side_tour.nil?  %>
+      <h2> Недавно просмотренные </h2>
+        <div id= "view_history">
+            <%= render partial: "shared/tour_view_history"%>
+        </div>
+    <% end %>
+  </div>
+
+  <div id = "detail">
+    <h1><%= @tour.name %> </h1>
+    <h3>Город   <%= make_link_city(@tour.city,@tour.city.name) %>, категория
+      <%= make_link_gategory_with_city(@tour) %> </h3>
+    <h3> </h3>
+
+    <h3><%= "Цена  #{@tour.price}" %> </h3>
+
+    <div id = "tour_detail">
+
+      <ul class ="tour-list">
+
+          <% unless @tour.tour_photos.first.nil? %>
+            <% for image in @tour.tour_photos %>
+                <%= link_to image_tag(image.photo.url(:large)), image.photo.url(:original) %>
+            <% end %>
+          <% end %>
+      </ul>
+          <%= content_tag( :p, sanitize(@tour.description)) %>
+
+          <%#= content_tag( :p, @side_tour) %>
+
+
+    </div>
+  </div>
+
+</div>

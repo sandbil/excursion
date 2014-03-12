@@ -1,0 +1,47 @@
+<h1>Список экскурсий</h1>
+
+<table>
+  <thead>
+  <tr>
+    <th>Id</th>
+    <th>Public</th>
+    <th>Название/Цена/Описание</th>
+    <th><%= link_to "Город", '/cities', title: "Редактиривать список городов" %></th>
+    <th><%= link_to "Категория", '/categories', title: "Редактиривать список категорий" %></th>
+    <th>Фото</th>
+    <th>Действия</th>
+  </tr>
+  </thead>
+
+  <tbody>
+    <% @tours.each do |tour| %>
+      <tr class="<%= cycle('list_line_odd', 'list_line_even') %>">
+      <td><%= tour.id %></td>
+      <td><%= tour.public %></td>
+        <td class = "list_description">
+           <dl>
+                <dt><%= tour.name %></dt>
+                <dt><%= tour.price %></dt>
+                <dd><%= truncate(strip_tags(tour.description), length: 450) %></dd>
+           </dl>
+      </td>
+      <td><%= link_to name_city(tour) , "cities", title: "city id = #{tour.city_id}"  %></td>
+      <td><%= link_to name_category(tour) , 'categories', title: "category id = #{tour.category_id}" %></td>
+      <td>
+         <% for image in tour.tour_photos %>
+            <%= link_to image_tag(image.photo.url(:thumb)), image.photo.url(:original) %>
+         <% end %>
+      </td>
+      <td class = "list_actions">
+        <%= link_to 'Show', tour %><br/>
+        <%= link_to 'Edit ', edit_tour_path(tour) %><br/>
+        <%= link_to 'Destroy ', tour, :data => {:confirm => 'Are you sure?'}, method: :delete %>
+      </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Tour', new_tour_path %>

@@ -1,0 +1,17 @@
+<% if notice %>
+    <p id="notice"><%=notice%></p>
+<% end %>
+
+<h1>Каталог экскурсий</h1>
+
+<% @cities.each do |city| %>
+    <div class= "entry">
+
+      <h2><%= make_link_city(city,city.name) %> (<%= city.tours.count %>) </h2>
+
+      <div class= "<%= "div_replace#{city.id}" %>">
+             <%= render partial: "shared/excurs", locals: {page:@page, city: city} %>
+      </div>
+
+    </div>
+<% end %> 

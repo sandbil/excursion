@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tour: one
+
+two:
+  tour: one
+
+three:
+  tour: two
+
+four:
+  tour: two
+
+five:
+  tour: two

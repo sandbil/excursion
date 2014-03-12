@@ -1,0 +1,58 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString1
+  description: MyText
+  public: true
+  price: 9.99
+  city: one
+  category: one
+
+two:
+  name: MyString2
+  description: MyText
+  public: true
+  price: 9.99
+  city: two
+  category: two
+  
+three:
+  name: MyString3
+  description: MyText
+  public: false
+  price: 9.99
+  city: two
+  category: two
+
+four:
+  name: MyString4
+  description: MyText
+  public: true
+  price: 9.99
+  city: two
+  category: two
+
+five:
+  name: MyString5
+  description: MyText
+  public: true
+  price: 9.99
+  city: two
+  category: two
+
+six:
+  name: MyString6
+  description: MyText
+  public: true
+  price: 9.99
+  city: two
+  category: two
+
+seven:
+  name: MyString7
+  description: MyText
+  public: true
+  price: 9.99
+  city: two
+  category: two
+

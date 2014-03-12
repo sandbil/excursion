@@ -1,0 +1,8 @@
+<li class="tour-item" >
+  <% unless tour.tour_photos.first.nil? %>
+     <%= link_to image_tag(tour.tour_photos.first.photo.url(:medium),height: '114',width: '150'), tour_detail_index_path(tour_id: tour) %><br>
+  <% end %>
+  <%= make_link_gategory_with_city(tour) %><br>
+  <%= link_to truncate(strip_tags(tour.name), length: 22), tour_detail_index_path(tour_id: tour) %>
+  <%= content_tag( :p, sanitize(truncate(strip_tags(tour.description), length: 100))) %>
+</li>

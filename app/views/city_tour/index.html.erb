@@ -1,0 +1,17 @@
+<% if notice %>
+    <p id="notice"><%=notice%></p>
+<% end %>
+
+<h1><%= "Каталог экскурсий города  #{@city.name} (#{@tours_count})" %> </h1>
+
+
+ <div id="city_tour">
+
+   <ul class="tour-list" >
+     <% for tour in @tours %>
+          <%= render partial: "shared/tour", locals: {tour: tour} %>
+      <% end %>
+   </ul>
+
+ </div>
+

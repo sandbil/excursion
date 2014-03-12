@@ -1,0 +1,19 @@
+<% if notice %>
+    <p id="notice"><%=notice%></p>
+<% end %>
+
+<h1>Каталог экскурсий города  <%= make_link_city(@city,@city.name) %>
+    <%=", категория: #{@category.name} (#{@tours_count})" %> </h1>
+
+
+<div class= "entry">
+  <div id="wrapper">
+    <div class="tour-container" style="position: relative; display: block;">
+      <ul class="tour-list" style="margin: 0px; padding: 0px; ">
+        <% for tour in @tours %>
+            <%= render partial: "shared/tour", locals: {tour: tour} %>
+        <% end %>
+      </ul>
+    </div>
+  </div>
+</div>

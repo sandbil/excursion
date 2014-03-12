@@ -1,0 +1,8 @@
+<ul>
+  <% for tour in @side_tour %>
+      <div id="history_tour">
+        <div id="delete_tour"> <%= make_link_delete(tour, @tour) %></div>
+        <%= render partial: "shared/tour", locals: {tour: tour} %>
+      </div>
+  <% end %>
+</ul>

@@ -1,0 +1,41 @@
+<% if notice %>
+    <p id="notice"><%=notice%></p>
+<% end %>
+
+<p>
+  <strong>Name:</strong>
+  <%= @tour.name %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @tour.description %>
+</p>
+
+<p>
+  <strong>public:</strong>
+  <%= @tour.public %>
+</p>
+
+<p>
+  <strong>Price:</strong>
+  <%= @tour.price %>
+</p>
+
+<p>
+  <strong>City:</strong>
+  <%= name_city(@tour) %>
+</p>
+
+<p>
+  <strong>Category:</strong>
+  <%= name_category(@tour) %>
+</p>
+<ul>
+  <% for image in @tour.tour_photos %>
+  <%= link_to image_tag(image.photo.url(:thumb)), image.photo.url(:original) %>
+  <% end %>
+</ul>
+
+<%= link_to 'Edit', edit_tour_path(@tour) %> |
+<%= link_to 'Back', tours_path %>

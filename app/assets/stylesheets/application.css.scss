@@ -1,0 +1,143 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+ *= require_self
+ *= require_tree .
+ */
+body {
+  font-family:"Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", Helvetica, Arial, sans-serif;
+  background: transparent url(bg.png) repeat;
+  color: #787878;
+  font-size: 11px;
+  line-height: 18px;
+  margin: 0px;
+  padding: 0px;
+}
+
+#main {
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #4b4b4b;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #1c1c1c;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Puritan20Normal';
+  font-weight: normal;
+  color: #4b4b4b;
+  margin-bottom: 10px;
+}
+
+h4 {
+  font-size: 16px;
+  line-height: 20px;
+  padding-bottom: 7px;
+}
+.tour-item {
+    background: none;
+    background-color: #FFF;
+    -webkit-box-shadow: 0px 1px 2px 0px #b7b7b7;
+    -moz-box-shadow: 0px 1px 2px 0px #b7b7b7;
+    box-shadow: 0px 1px 2px 0px #b7b7b7;
+    padding: 15px;
+    width: 150px;
+    height: 250px;
+    margin: 3px 11px 3px 3px;
+    float: left;
+}
+
+
+#banner {
+
+    background:white url(bg_page.jpg) no-repeat 50% 0;
+    img {
+        float: left;
+    }
+  #wrapperh {
+    width: 760px;
+    margin: auto;
+    padding: 0px;
+    height: 90px;
+  }
+  #header {
+    position: relative;
+    display: block;
+    width: 760px;
+    height: 62px;
+    margin: 0px;
+    padding: 0px;
+    font: small-caps 40px/40px "Times Mew Roman", serif;
+    color: #2F4F4F;
+    text-align: center;
+  }
+  #nav {
+    display: block;
+    width: 760px;
+    height: 26px;
+    margin: 0px;
+    padding: 0px;
+    list-style: none outside none;
+    text-align: center;
+    background: url('bg_nav.gif') repeat-x scroll 0% 0% #A13D3D;
+}
+  #nav li { float: left; width: 150px;  }
+  #nav li a 		{ text-decoration:none; display:block; padding:0; padding:0; height:1%; line-height:26px; color:#FFF; }
+  #nav li.on 		{ display:block; padding:0; width:120px; height:26px; line-height:26px; background:url(bg_nav_on_2.gif) no-repeat 50% 0; color:#EFEFEF; }
+  #nav li a:hover { background:url(bg_nav_on.gif) no-repeat 50% 0; }
+
+
+}
+
+#notice {
+    color: #000 !important;
+    border: 2px solid red;
+    padding: 1em;
+    margin-bottom: 2em;
+    background-color: #f0f0f0;
+    font: bold smaller sans- serif;
+}
+
+.depot_form {
+fieldset {
+    background: #efe;
+legend {
+    color: #dfd;
+    background: #141;
+    font-family: sans-serif;
+    padding: 0.2em 1em;
+}
+}
+form {
+label {
+    width: 5em;
+    float: left;
+    text-align: right;
+    padding-top: 0.2em;
+    margin-right: 0.1em;
+    display: block;
+}
+select, textarea, input {
+    margin-left: 0.5em;
+}
+.submit {
+    margin-left: 4em;
+}
+br {
+    display: none
+}
+}
+}
