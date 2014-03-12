@@ -32,7 +32,9 @@ class TourDetailController < ApplicationController
   end
 
   def del_cookie(element)
+    #p "cookies[:view_history]", cookies[:view_history]
     store = cookies[:view_history].nil? ? [] : cookies[:view_history].split("&")
+    #p "del_cookie store", store
     if store.include? element.to_s
       store=(store - [element.to_s]).compact
     end
@@ -48,10 +50,11 @@ class TourDetailController < ApplicationController
         format.html { redirect_to tour_detail_index_path }
       else
         side_tour = del_cookie(params[:tour]) - [params[:cur_tour]]
+        #p "display side_tour", side_tour
         @tour = Tour.includes(:city,:category,:tour_photos).find_by_id(params[:cur_tour])
         @side_tour = Tour.includes(:city,:category,:tour_photos).where("id IN (?)", side_tour)
         format.html { redirect_to tour_detail_index_path }
-        format.js #{@page1 =  }
+        format.js
       end
     end
   end

@@ -2,15 +2,15 @@ require 'test_helper'
 
 class ToursControllerTest < ActionController::TestCase
   setup do
-    @tour = tours(:one)
+    @tour = tours(:tours_001)
 
     @update = {
         name: 'Экскурсия 1',
         description: 'Это тестовая экскурсия',
         public: true,
         price: 19.95,
-        city_id: cities(:one),
-        category_id: categories(:one)
+        city_id: cities(:cities_001),
+        category_id: categories(:categories_004)
     }
   end
 
@@ -42,7 +42,7 @@ class ToursControllerTest < ActionController::TestCase
   test "should show tour with public false" do
 
       tour = Tour.new(name: "example1", description: "Это тестовая экскурсия",
-                      public: false,city_id: cities(:one).id,  category_id: categories(:one).id)
+                      public: false,city_id: cities(:cities_001).id,  category_id: categories(:categories_005).id)
       tour.save!
 
     get :show, id: tour
@@ -56,7 +56,7 @@ class ToursControllerTest < ActionController::TestCase
 
   test "should get edit with public false" do
     tour = Tour.new(name: "example1", description: "Это тестовая экскурсия",
-                    public: false,city_id: cities(:one).id,  category_id: categories(:one).id)
+                    public: false,city_id: cities(:cities_001).id,  category_id: categories(:categories_001).id)
     tour.save!
 
     get :edit, id: tour
@@ -79,7 +79,7 @@ class ToursControllerTest < ActionController::TestCase
 
   test "should destroy tour with public false" do
     tour = Tour.new(name: "example1", description: "Это тестовая экскурсия",
-                    public: false,city_id: cities(:one).id,  category_id: categories(:one).id)
+                    public: false,city_id: cities(:cities_001).id,  category_id: categories(:categories_001).id)
     tour.save!
 
     assert_difference('Tour.unscoped.count', -1) do

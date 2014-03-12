@@ -7,7 +7,7 @@ class CategoryTourControllerTest < ActionController::TestCase
   end
 
   test "should get index with correct parameters" do
-    get :index,  city_id: cities(:one).id, category_id: categories(:one).id
+    get :index,  city_id: cities(:cities_001).id, category_id: categories(:categories_001).id
     assert_response :success, "get index with correct parameters" + response.status.to_s
   end
 

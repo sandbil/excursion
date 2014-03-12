@@ -2,8 +2,8 @@ require 'test_helper'
 
 class CitiesControllerTest < ActionController::TestCase
   setup do
-    @city = cities(:three)
-    @city_not_delete = cities(:one)
+    @city = cities(:cities_007)
+    @city_not_delete = cities(:cities_001)
 	@update = {:name => 'qwerty'}
 	
   end

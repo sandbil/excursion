@@ -14,45 +14,54 @@ class TourTest < ActiveSupport::TestCase
   test "property public true" do
     assert_difference("Tour.count", 1, "error") do
       tour = Tour.new(name: "example", description: "Это тестовая экскурсия",
-                      public: true, city_id: cities(:one).id,  category_id: categories(:one).id)
+                      public: true, city_id: cities(:cities_001).id,  category_id: categories(:categories_001).id)
       tour.save!
     end
   end
   test "property public false" do
     assert_no_difference("Tour.count", "error") do
       tour = Tour.new(name: "example1", description: "Это тестовая экскурсия",
-                      public: false,city_id: cities(:one).id,  category_id: categories(:one).id)
+                      public: false,city_id: cities(:cities_001).id,  category_id: categories(:categories_001).id)
       tour.save!
     end
     assert_difference("Tour.unscoped.count", 1,"error") do
       tour = Tour.new(name: "example2", description: "Это тестовая экскурсия",
-                      public: false,city_id: cities(:one).id,  category_id: categories(:one).id)
+                      public: false,city_id: cities(:cities_001).id,  category_id: categories(:categories_001).id)
       tour.save!
     end
   end
 
   test "page count" do
-    # в фикстуре с городом :two есть 5 туров с public true и 1 тур с public false
+    # в фикстуре с городом :cities_002 есть 3 тура с public true
     # при количестве на странице в 5 туров количество страниц 1
-    assert_equal 1 , Tour.pgcount(cities(:two).id) , "1 error page count"
-    # добавляем тур с public: false
-    #количество страниц  не поменялось
+    assert_equal 1 , Tour.pgcount(cities(:cities_002).id) , "1 error page count"
+    # добавим 2 тура до ограничения в 5 туров
     tour = Tour.new(name: "example4", description: "Это тестовая экскурсия",
-                    public: false, city_id: cities(:two).id,  category_id: categories(:one).id)
+                    public: true, city_id: cities(:cities_002).id,  category_id: categories(:categories_002).id)
     tour.save!
-    assert_equal 1 , Tour.pgcount(cities(:two).id) , "2 error page count"
+    tour = Tour.new(name: "example5", description: "Это тестовая экскурсия",
+                    public: true, city_id: cities(:cities_002).id,  category_id: categories(:categories_002).id)
+    tour.save!
+    assert_equal 1 , Tour.pgcount(cities(:cities_002).id) , "1 error page count"
+
+    # добавляем тур с public: false
+    tour = Tour.new(name: "example6", description: "Это тестовая экскурсия",
+                    public: false, city_id: cities(:cities_002).id,  category_id: categories(:categories_002).id)
+    tour.save!
+    #количество страниц  не поменялось
+    assert_equal 1 , Tour.pgcount(cities(:cities_002).id) , "2 error page count"
 
     # добавляем тур с public: true
     # 6 тур с public: true уже на 2 странице
-    tour = Tour.new(name: "example5", description: "Это тестовая экскурсия",
-                    public: true, city_id: cities(:two).id,  category_id: categories(:one).id)
+    tour = Tour.new(name: "example7", description: "Это тестовая экскурсия",
+                    public: true, city_id: cities(:cities_002).id,  category_id: categories(:categories_003).id)
     tour.save!
-    assert_equal 2 , Tour.pgcount(cities(:two).id) , "2 error page count"
+    assert_equal 2 , Tour.pgcount(cities(:cities_002).id) , "2 error page count"
   end
 
   test "page" do
-    assert_equal "MyString1" , Tour.page(1,cities(:one).id).first.name , "1 error page"
-    # 2 страницы не существует
-    assert_equal true , Tour.page(2,cities(:one).id).first.nil? , "2 error page"
+    assert_equal "Храм Христа Спасителя" , Tour.page(2,cities(:cities_001).id).first.name , "1 error page"
+    # 3 страницы не существует
+    assert_equal true , Tour.page(3,cities(:cities_001).id).first.nil? , "2 error page"
   end
 end

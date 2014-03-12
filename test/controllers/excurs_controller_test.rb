@@ -14,11 +14,11 @@ class ExcursControllerTest < ActionController::TestCase
   end
 
   test "should get display  ajax" do
-    xhr :get, :display , page: 1, city: cities(:two).id
+    xhr :get, :display , page: 2, city: cities(:cities_001).id
 
     assert_response :success
-    assert_select_jquery :html, ".div_replace#{cities(:two).id}" do
-         assert_select 'ul', /MyString4/
+    assert_select_jquery :html, ".div_replace#{cities(:cities_001).id}" do
+         assert_select 'ul', /Храм Христа Спасителя/
     end
 
   end

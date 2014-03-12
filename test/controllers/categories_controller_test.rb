@@ -2,8 +2,8 @@ require 'test_helper'
 
 class CategoriesControllerTest < ActionController::TestCase
   setup do
-    @category = categories(:three)
-    @category_not_delete = categories(:two)
+    @category = categories(:categories_005)
+    @category_not_delete = categories(:categories_002)
     @update = {:name => 'qwerty'}
   end
 

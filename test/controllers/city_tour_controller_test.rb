@@ -5,7 +5,7 @@ class CityTourControllerTest < ActionController::TestCase
     get :index
     assert_response :redirect
 
-    get :index,  city_id: cities(:one).id
+    get :index,  city_id: cities(:cities_001).id
     assert_response :success, "get index with correct parameters" + response.status.to_s
 
     get :index,  city_id: City.maximum("id") + 10

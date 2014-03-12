@@ -13,23 +13,23 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/excursion@All_tests_in_app__excursion.coverage" NAME="All tests in app: excursion Coverage Results" MODIFIED="1393053569744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" MODULE_NAME="excursion" />
+    <SUITE FILE_PATH="coverage/excursion@Run_test__TourTest___excursion.coverage" NAME="Run test 'TourTest': excursion Coverage Results" MODIFIED="1394629978001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
     <SUITE FILE_PATH="coverage/excursion@Production__excursion.coverage" NAME="Production: excursion Coverage Results" MODIFIED="1394588285879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
-    <SUITE FILE_PATH="coverage/excursion@Run_test__TourTest___excursion.coverage" NAME="Run test 'TourTest': excursion Coverage Results" MODIFIED="1394582905692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
-    <SUITE FILE_PATH="coverage/excursion@Run_test__city_tour_controller_test___excursion.coverage" NAME="Run test 'city_tour_controller_test': excursion Coverage Results" MODIFIED="1394582267724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
+    <SUITE FILE_PATH="coverage/excursion@Run_test__city_tour_controller_test___excursion.coverage" NAME="Run test 'city_tour_controller_test': excursion Coverage Results" MODIFIED="1394631094371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
     <SUITE FILE_PATH="coverage/excursion@Rails_console__excursion.coverage" NAME="Rails console: excursion Coverage Results" MODIFIED="1394204451610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
     <SUITE FILE_PATH="coverage/excursion@seeds.coverage" NAME="seeds Coverage Results" MODIFIED="1393582904379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" MODULE_NAME="excursion" />
-    <SUITE FILE_PATH="coverage/excursion@Run_test__category_tour_controller_test___excursion.coverage" NAME="Run test 'category_tour_controller_test': excursion Coverage Results" MODIFIED="1394582032034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
-    <SUITE FILE_PATH="coverage/excursion@Run_test__categories_controller_test___excursion.coverage" NAME="Run test 'categories_controller_test': excursion Coverage Results" MODIFIED="1394369368268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
-    <SUITE FILE_PATH="coverage/excursion@All_tests_in_test__excursion.coverage" NAME="All tests in test: excursion Coverage Results" MODIFIED="1394583273584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
+    <SUITE FILE_PATH="coverage/excursion@Run_test__category_tour_controller_test___excursion.coverage" NAME="Run test 'category_tour_controller_test': excursion Coverage Results" MODIFIED="1394631240577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
+    <SUITE FILE_PATH="coverage/excursion@All_tests_in_test__excursion.coverage" NAME="All tests in test: excursion Coverage Results" MODIFIED="1394632423569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
+    <SUITE FILE_PATH="coverage/excursion@Run_test__categories_controller_test___excursion.coverage" NAME="Run test 'categories_controller_test': excursion Coverage Results" MODIFIED="1394630130854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
     <SUITE FILE_PATH="coverage/excursion@test__excursion.coverage" NAME="test: excursion Coverage Results" MODIFIED="1394378416237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
-    <SUITE FILE_PATH="coverage/excursion@Run_test__tour_detail_controller_test___excursion.coverage" NAME="Run test 'tour_detail_controller_test': excursion Coverage Results" MODIFIED="1394578895207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
+    <SUITE FILE_PATH="coverage/excursion@Run_test__tour_detail_controller_test___excursion.coverage" NAME="Run test 'tour_detail_controller_test': excursion Coverage Results" MODIFIED="1394632407276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
     <SUITE FILE_PATH="coverage/excursion@Run_test__tour_test___excursion.coverage" NAME="Run test 'tour_test': excursion Coverage Results" MODIFIED="1394370141017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
-    <SUITE FILE_PATH="coverage/excursion@Run_test__excurs_controller_test___excursion.coverage" NAME="Run test 'excurs_controller_test': excursion Coverage Results" MODIFIED="1394376708815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
-    <SUITE FILE_PATH="coverage/excursion@Run_test__tours_controller_test___excursion.coverage" NAME="Run test 'tours_controller_test': excursion Coverage Results" MODIFIED="1394373435597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
-    <SUITE FILE_PATH="coverage/excursion@city.coverage" NAME="city Coverage Results" MODIFIED="1394115878103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/models" MODULE_NAME="excursion" />
+    <SUITE FILE_PATH="coverage/excursion@Run_test__excurs_controller_test___excursion.coverage" NAME="Run test 'excurs_controller_test': excursion Coverage Results" MODIFIED="1394631397086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
+    <SUITE FILE_PATH="coverage/excursion@Run_test__tours_controller_test___excursion.coverage" NAME="Run test 'tours_controller_test': excursion Coverage Results" MODIFIED="1394630337178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
+    <SUITE FILE_PATH="coverage/excursion@Run_test__cities_controller_test___excursion.coverage" NAME="Run test 'cities_controller_test': excursion Coverage Results" MODIFIED="1394631173141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
     <SUITE FILE_PATH="coverage/excursion@test_should_destroy_tour__excursion.coverage" NAME="test_should_destroy_tour: excursion Coverage Results" MODIFIED="1394198713629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
-    <SUITE FILE_PATH="coverage/excursion@Run_test__cities_controller_test___excursion.coverage" NAME="Run test 'cities_controller_test': excursion Coverage Results" MODIFIED="1394369484133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
-    <SUITE FILE_PATH="coverage/excursion@Development__excursion.coverage" NAME="Development: excursion Coverage Results" MODIFIED="1394625576515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
+    <SUITE FILE_PATH="coverage/excursion@city.coverage" NAME="city Coverage Results" MODIFIED="1394115878103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/models" MODULE_NAME="excursion" />
+    <SUITE FILE_PATH="coverage/excursion@Development__excursion.coverage" NAME="Development: excursion Coverage Results" MODIFIED="1394628930214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="excursion" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -43,28 +43,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/tours/index.html.erb">
+      <file leaf-file-name="tour_detail_controller_test.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/controllers/tour_detail_controller_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="73" selection-start="753" selection-end="753" vertical-scroll-proportion="-15.615385" vertical-offset="2" max-vertical-offset="901">
+            <state line="36" column="54" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.24444444" vertical-offset="546" max-vertical-offset="833">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <file leaf-file-name="tours.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/fixtures/tours.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+            <state line="228" column="8" selection-start="11872" selection-end="11887" vertical-scroll-proportion="0.0" vertical-offset="3774" max-vertical-offset="4454">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tour_detail_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="tour_detail_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/tour_detail_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="70" selection-start="1846" selection-end="1846" vertical-scroll-proportion="1.0961539" vertical-offset="451" max-vertical-offset="1105">
+            <state line="29" column="26" selection-start="1119" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="389" max-vertical-offset="1156">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categories.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/fixtures/categories.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="14" selection-start="4" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cities.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/fixtures/cities.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="10" selection-start="763" selection-end="773" vertical-scroll-proportion="0.0" vertical-offset="451" max-vertical-offset="799">
               <folding />
             </state>
           </provider>
@@ -106,11 +124,7 @@
         <option value="$PROJECT_DIR$/app/models/category.rb" />
         <option value="$PROJECT_DIR$/test/fixtures/tours.yml" />
         <option value="$PROJECT_DIR$/app/helpers/excurs_helper.rb" />
-        <option value="$PROJECT_DIR$/test/controllers/categories_controller_test.rb" />
-        <option value="$PROJECT_DIR$/test/controllers/cities_controller_test.rb" />
-        <option value="$PROJECT_DIR$/test/controllers/tours_controller_test.rb" />
         <option value="$PROJECT_DIR$/app/controllers/excurs_controller.rb" />
-        <option value="$PROJECT_DIR$/test/controllers/excurs_controller_test.rb" />
         <option value="$PROJECT_DIR$/app/views/cities/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/categories/index.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
@@ -119,18 +133,22 @@
         <option value="$PROJECT_DIR$/app/views/shared/_tour.html.erb" />
         <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
         <option value="$PROJECT_DIR$/app/views/tour_detail/index.html.erb" />
-        <option value="$PROJECT_DIR$/test/controllers/tour_detail_controller_test.rb" />
         <option value="$PROJECT_DIR$/app/controllers/category_tour_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/city_tour_controller.rb" />
-        <option value="$PROJECT_DIR$/test/controllers/category_tour_controller_test.rb" />
-        <option value="$PROJECT_DIR$/test/controllers/city_tour_controller_test.rb" />
         <option value="$PROJECT_DIR$/app/models/tour.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20140220090437_create_tours.rb" />
-        <option value="$PROJECT_DIR$/test/models/tour_test.rb" />
         <option value="$PROJECT_DIR$/db/schema.rb" />
         <option value="$PROJECT_DIR$/app/views/tours/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/tour_detail_controller.rb" />
         <option value="$PROJECT_DIR$/test/fixtures/categories.yml" />
+        <option value="$PROJECT_DIR$/test/models/tour_test.rb" />
+        <option value="$PROJECT_DIR$/test/controllers/categories_controller_test.rb" />
+        <option value="$PROJECT_DIR$/test/controllers/tours_controller_test.rb" />
+        <option value="$PROJECT_DIR$/test/controllers/city_tour_controller_test.rb" />
+        <option value="$PROJECT_DIR$/test/controllers/cities_controller_test.rb" />
+        <option value="$PROJECT_DIR$/test/controllers/category_tour_controller_test.rb" />
+        <option value="$PROJECT_DIR$/test/controllers/excurs_controller_test.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/tour_detail_controller.rb" />
+        <option value="$PROJECT_DIR$/test/controllers/tour_detail_controller_test.rb" />
       </list>
     </option>
   </component>
@@ -173,6 +191,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -191,10 +211,54 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="excursion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="excursion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="excursion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="excursion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fixtures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="excursion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="excursion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,8 +272,36 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Rails.Development: excursion">
-    <configuration default="false" name="Run test 'tour_detail_controller_test': excursion" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.All tests in test: excursion">
+    <configuration default="false" name="All tests in test: excursion" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="excursion" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift) -Itest" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/test" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/{*_test,test_*}.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Run test 'cities_controller_test': excursion" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="excursion" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift) -Itest" />
@@ -226,7 +318,7 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/test/controllers/tour_detail_controller_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/test/controllers/cities_controller_test.rb" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
@@ -265,7 +357,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Run test 'city_tour_controller_test': excursion" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+    <configuration default="false" name="Run test 'tour_detail_controller_test': excursion" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="excursion" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift) -Itest" />
@@ -282,7 +374,7 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/test/controllers/city_tour_controller_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/test/controllers/tour_detail_controller_test.rb" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
@@ -293,35 +385,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="All tests in test: excursion" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
-      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
-      <module name="excursion" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift) -Itest" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="RAILS_ENV" value="test" />
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/test" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/{*_test,test_*}.rb" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Run test 'TourTest': excursion" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+    <configuration default="false" name="Run test 'excurs_controller_test': excursion" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="excursion" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift) -Itest" />
@@ -338,7 +402,7 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/test/models/tour_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/test/controllers/excurs_controller_test.rb" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
@@ -482,19 +546,19 @@
       <item index="1" class="java.lang.String" itemvalue="Rake.spec: excursion" />
       <item index="2" class="java.lang.String" itemvalue="Rails.Production: excursion" />
       <item index="3" class="java.lang.String" itemvalue="Rails.Development: excursion" />
-      <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'tour_detail_controller_test': excursion" />
-      <item index="5" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'category_tour_controller_test': excursion" />
-      <item index="6" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'city_tour_controller_test': excursion" />
-      <item index="7" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in test: excursion" />
-      <item index="8" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'TourTest': excursion" />
+      <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in test: excursion" />
+      <item index="5" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'cities_controller_test': excursion" />
+      <item index="6" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'category_tour_controller_test': excursion" />
+      <item index="7" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'tour_detail_controller_test': excursion" />
+      <item index="8" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'excurs_controller_test': excursion" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'TourTest': excursion" />
-        <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in test: excursion" />
-        <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'city_tour_controller_test': excursion" />
+        <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in test: excursion" />
+        <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'tour_detail_controller_test': excursion" />
+        <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'excurs_controller_test': excursion" />
         <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'category_tour_controller_test': excursion" />
-        <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'tour_detail_controller_test': excursion" />
+        <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.Run test 'cities_controller_test': excursion" />
       </list>
     </recent_temporary>
   </component>
@@ -546,27 +610,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="5" width="1260" height="760" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38660577" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3850837" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30366057" sideWeight="0.49923897" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30865225" sideWeight="0.49923897" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4426919" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26123127" sideWeight="0.50076103" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4764795" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54946727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -639,36 +703,14 @@
         <state line="14" column="3" selection-start="168" selection-end="168" vertical-scroll-proportion="0.8469751" vertical-offset="0" max-vertical-offset="374" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/fixtures/tours.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="715" selection-end="715" vertical-scroll-proportion="2.8716216" vertical-offset="0" max-vertical-offset="1088" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/city.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="50" selection-start="339" selection-end="381" vertical-scroll-proportion="0.5743243" vertical-offset="0" max-vertical-offset="391" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/controllers/categories_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="41" selection-start="1249" selection-end="1249" vertical-scroll-proportion="0.597973" vertical-offset="707" max-vertical-offset="1105" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/controllers/cities_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="37" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.597973" vertical-offset="741" max-vertical-offset="1139" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/category.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.8044164" vertical-offset="0" max-vertical-offset="357" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/controllers/tours_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="12" selection-start="2099" selection-end="2119" vertical-scroll-proportion="0.4831081" vertical-offset="1353" max-vertical-offset="1649">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/tour_photo.rb">
@@ -704,11 +746,6 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/excurs_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="50" selection-start="808" selection-end="839" vertical-scroll-proportion="1.2402827" vertical-offset="108" max-vertical-offset="663" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/controllers/excurs_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="112" selection-end="151" vertical-scroll-proportion="0.18085106" vertical-offset="0" max-vertical-offset="561" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/excurs/index.html.erb">
@@ -788,11 +825,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/fixtures/cities.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="151" selection-end="151" vertical-scroll-proportion="0.34" vertical-offset="0" max-vertical-offset="450" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/category_tour_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="50" selection-start="615" selection-end="615" vertical-scroll-proportion="0.6135881" vertical-offset="0" max-vertical-offset="471" />
@@ -801,21 +833,6 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/city_tour_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/controllers/city_tour_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="49" selection-start="337" selection-end="337" vertical-scroll-proportion="0.36093417" vertical-offset="0" max-vertical-offset="471" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/controllers/category_tour_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="92" selection-start="469" selection-end="649" vertical-scroll-proportion="0.54140127" vertical-offset="0" max-vertical-offset="471" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/controllers/tour_detail_controller_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="297" selection-end="297" vertical-scroll-proportion="0.32484075" vertical-offset="0" max-vertical-offset="731" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/schema.rb">
@@ -841,12 +858,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/models/tour_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="510" selection-end="510" vertical-scroll-proportion="0.37103173" vertical-offset="0" max-vertical-offset="1088" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/tours/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="73" selection-start="753" selection-end="753" vertical-scroll-proportion="-15.615385" vertical-offset="2" max-vertical-offset="901">
+        <state line="39" column="61" selection-start="1831" selection-end="1831" vertical-scroll-proportion="0.33114755" vertical-offset="562" max-vertical-offset="1241">
           <folding />
         </state>
       </provider>
@@ -858,16 +870,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/controllers/categories_controller_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="53" selection-start="191" selection-end="191" vertical-scroll-proportion="-0.05345912" vertical-offset="102" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/controllers/tours_controller_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="61" selection-start="2012" selection-end="2012" vertical-scroll-proportion="0.33114755" vertical-offset="1276" max-vertical-offset="1649">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/tours/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="73" selection-start="753" selection-end="753" vertical-scroll-proportion="1.3904109" vertical-offset="2" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/fixtures/cities.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="10" selection-start="763" selection-end="773" vertical-scroll-proportion="0.0" vertical-offset="451" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/fixtures/categories.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="649" selection-end="649" vertical-scroll-proportion="0.6982622" vertical-offset="0" max-vertical-offset="633">
+        <state line="1" column="14" selection-start="4" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/controllers/category_tour_controller_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="89" selection-start="327" selection-end="327" vertical-scroll-proportion="0.5151515" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/controllers/cities_controller_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="41" selection-start="163" selection-end="163" vertical-scroll-proportion="-2.4612794" vertical-offset="816" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/controllers/city_tour_controller_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="44" selection-start="200" selection-end="200" vertical-scroll-proportion="0.33333334" vertical-offset="20" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/controllers/excurs_controller_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="30" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/fixtures/tours.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="228" column="8" selection-start="11872" selection-end="11887" vertical-scroll-proportion="0.0" vertical-offset="3774" max-vertical-offset="4454">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/tour_detail_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="70" selection-start="1846" selection-end="1846" vertical-scroll-proportion="1.0961539" vertical-offset="451" max-vertical-offset="1105">
+        <state line="29" column="26" selection-start="1119" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="389" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/controllers/tour_detail_controller_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="54" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.24444444" vertical-offset="546" max-vertical-offset="833">
           <folding />
         </state>
       </provider>
