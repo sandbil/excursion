@@ -1,10 +1,41 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
-one:
-  name: MyCity
-
-two:
-  name: City1
-
-three:
-  name: City3
+---
+cities_001:
+  id: 7
+  name: Москва
+  created_at: '2014-02-21 06:06:25.454000'
+  updated_at: '2014-02-21 06:06:25.454000'
+cities_002:
+  id: 9
+  name: Санкт-Петербург
+  created_at: '2014-02-21 10:18:15.512000'
+  updated_at: '2014-02-28 10:10:24.302400'
+cities_003:
+  id: 11
+  name: Новосибирск
+  created_at: '2014-02-28 10:23:02.101400'
+  updated_at: '2014-02-28 10:23:02.101400'
+cities_004:
+  id: 12
+  name: Екатеринбург
+  created_at: '2014-02-28 10:23:02.126400'
+  updated_at: '2014-02-28 10:23:02.126400'
+cities_005:
+  id: 13
+  name: Нижний Новгород
+  created_at: '2014-02-28 10:23:02.135400'
+  updated_at: '2014-02-28 10:23:02.135400'
+cities_006:
+  id: 14
+  name: Казань
+  created_at: '2014-02-28 10:23:02.146400'
+  updated_at: '2014-02-28 10:23:02.146400'
+cities_007:
+  id: 15
+  name: Самара
+  created_at: '2014-02-28 10:23:02.156400'
+  updated_at: '2014-02-28 10:23:02.156400'
+cities_008:
+  id: 17
+  name: Челябинск
+  created_at: '2014-02-28 10:23:02.174400'
+  updated_at: '2014-02-28 10:23:02.174400'

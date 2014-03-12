@@ -1,16 +1,208 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
-one:
-  tour: one
-
-two:
-  tour: one
-
-three:
-  tour: two
-
-four:
-  tour: two
-
-five:
-  tour: two
+---
+tour_photos_001:
+  id: 120
+  tour_id: 30
+  created_at: '2014-03-01 08:51:18.877000'
+  updated_at: '2014-03-01 08:51:18.877000'
+  photo_file_name: Waterfall.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 287631
+  photo_updated_at: '2014-03-01 08:51:16.721000'
+tour_photos_002:
+  id: 121
+  tour_id: 30
+  created_at: '2014-03-01 08:51:34.262000'
+  updated_at: '2014-03-01 08:51:34.262000'
+  photo_file_name: Tree.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 770042
+  photo_updated_at: '2014-03-01 08:51:31.121000'
+tour_photos_003:
+  id: 122
+  tour_id: 30
+  created_at: '2014-03-01 08:51:47.070000'
+  updated_at: '2014-03-01 08:51:47.070000'
+  photo_file_name: Winter_Leaves.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 211207
+  photo_updated_at: '2014-03-01 08:51:45.023000'
+tour_photos_004:
+  id: 123
+  tour_id: 31
+  created_at: '2014-03-01 08:52:37.392000'
+  updated_at: '2014-03-01 08:52:37.392000'
+  photo_file_name: Humpback_Whale.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 262368
+  photo_updated_at: '2014-03-01 08:52:35.017000'
+tour_photos_005:
+  id: 124
+  tour_id: 31
+  created_at: '2014-03-01 08:52:49.339000'
+  updated_at: '2014-03-01 08:52:49.339000'
+  photo_file_name: Toco_Toucan.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 114852
+  photo_updated_at: '2014-03-01 08:52:47.307000'
+tour_photos_006:
+  id: 125
+  tour_id: 16
+  created_at: '2014-03-01 08:53:37.544000'
+  updated_at: '2014-03-01 08:53:37.544000'
+  photo_file_name: Oryx_Antelope.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 298056
+  photo_updated_at: '2014-03-01 08:53:35.428000'
+tour_photos_007:
+  id: 126
+  tour_id: 33
+  created_at: '2014-03-01 14:08:00.592000'
+  updated_at: '2014-03-01 14:08:00.592000'
+  photo_file_name: Creek.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 264409
+  photo_updated_at: '2014-03-01 14:07:58.331000'
+tour_photos_008:
+  id: 127
+  tour_id: 34
+  created_at: '2014-03-01 14:45:58.702000'
+  updated_at: '2014-03-01 14:45:58.702000'
+  photo_file_name: 300px-Dormition_Cathedral__Moscow.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 34623
+  photo_updated_at: '2014-03-01 14:45:57.642000'
+tour_photos_009:
+  id: 128
+  tour_id: 35
+  created_at: '2014-03-01 14:48:57.449000'
+  updated_at: '2014-03-01 14:48:57.449000'
+  photo_file_name: sobor_vasiliya_blazhennogo_glavnyj_hram_1.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 33654
+  photo_updated_at: '2014-03-01 14:48:56.295000'
+tour_photos_010:
+  id: 129
+  tour_id: 36
+  created_at: '2014-03-01 14:52:41.489000'
+  updated_at: '2014-03-01 14:52:41.489000'
+  photo_file_name: 2VSN_5771-1200.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 798588
+  photo_updated_at: '2014-03-01 14:52:39.167000'
+tour_photos_011:
+  id: 130
+  tour_id: 36
+  created_at: '2014-03-01 14:52:53.217000'
+  updated_at: '2014-03-01 14:52:53.217000'
+  photo_file_name: hram-pageID91-img132.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 128836
+  photo_updated_at: '2014-03-01 14:52:51.964000'
+tour_photos_012:
+  id: 131
+  tour_id: 36
+  created_at: '2014-03-01 14:54:23.115000'
+  updated_at: '2014-03-01 14:54:23.115000'
+  photo_file_name: 917250204.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 209315
+  photo_updated_at: '2014-03-01 14:54:20.892000'
+tour_photos_013:
+  id: 132
+  tour_id: 37
+  created_at: '2014-03-01 14:57:12.628000'
+  updated_at: '2014-03-01 14:57:12.628000'
+  photo_file_name: 1aa5530cdfb155b68b67e5900ee622fa_w960_h2048.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 100520
+  photo_updated_at: '2014-03-01 14:57:10.641000'
+tour_photos_014:
+  id: 133
+  tour_id: 37
+  created_at: '2014-03-01 14:57:23.106000'
+  updated_at: '2014-03-01 14:57:23.106000'
+  photo_file_name: 1_b67efd661ea59dd956680003347facfc.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 102898
+  photo_updated_at: '2014-03-01 14:57:21.489000'
+tour_photos_015:
+  id: 135
+  tour_id: 39
+  created_at: '2014-03-02 23:31:19.372275'
+  updated_at: '2014-03-02 23:31:19.372275'
+  photo_file_name: 065a5e56370263cfe855ebcea0795f60_w960_h2048.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 261921
+  photo_updated_at: '2014-03-02 23:31:18.574230'
+tour_photos_016:
+  id: 136
+  tour_id: 39
+  created_at: '2014-03-02 23:33:23.185357'
+  updated_at: '2014-03-02 23:33:23.185357'
+  photo_file_name: 5158.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 264070
+  photo_updated_at: '2014-03-02 23:33:22.695329'
+tour_photos_017:
+  id: 137
+  tour_id: 39
+  created_at: '2014-03-02 23:33:57.784336'
+  updated_at: '2014-03-02 23:33:57.784336'
+  photo_file_name: arbat01.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 89010
+  photo_updated_at: '2014-03-02 23:33:57.367312'
+tour_photos_018:
+  id: 138
+  tour_id: 40
+  created_at: '2014-03-02 23:36:31.542131'
+  updated_at: '2014-03-02 23:36:31.542131'
+  photo_file_name: Peterhof_Fountains_01_-_Big_Cascade_03.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 5165410
+  photo_updated_at: '2014-03-02 23:36:29.273001'
+tour_photos_019:
+  id: 139
+  tour_id: 40
+  created_at: '2014-03-02 23:37:38.333951'
+  updated_at: '2014-03-02 23:37:38.333951'
+  photo_file_name: state-hermitage-st-petersburg.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 424926
+  photo_updated_at: '2014-03-02 23:37:37.698914'
+tour_photos_020:
+  id: 141
+  tour_id: 40
+  created_at: '2014-03-02 23:40:00.595088'
+  updated_at: '2014-03-02 23:40:00.595088'
+  photo_file_name: isaaksobor.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 62944
+  photo_updated_at: '2014-03-02 23:40:00.289070'
+tour_photos_021:
+  id: 142
+  tour_id: 41
+  created_at: '2014-03-02 23:43:00.962588'
+  updated_at: '2014-03-02 23:43:00.962588'
+  photo_file_name: Russian_museam.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 4799507
+  photo_updated_at: '2014-03-02 23:42:58.339438'
+tour_photos_022:
+  id: 143
+  tour_id: 32
+  created_at: '2014-03-11 14:17:59.782000'
+  updated_at: '2014-03-11 14:17:59.782000'
+  photo_file_name: Garden.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 516424
+  photo_updated_at: '2014-03-11 14:17:56.671000'
+tour_photos_023:
+  id: 144
+  tour_id: 32
+  created_at: '2014-03-11 14:18:09.355000'
+  updated_at: '2014-03-11 14:18:09.355000'
+  photo_file_name: Frangipani_Flowers.jpg
+  photo_content_type: image/jpeg
+  photo_file_size: 108051
+  photo_updated_at: '2014-03-11 14:18:07.678000'

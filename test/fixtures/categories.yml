@@ -1,10 +1,26 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
-one:
-  name: Категория 1
-
-two:
+---
+categories_001:
+  id: 1
   name: Исторические
-
-three:
-  name: some
+  created_at: '2014-02-20 08:24:57.976800'
+  updated_at: '2014-02-20 08:24:57.976800'
+categories_002:
+  id: 2
+  name: Городские
+  created_at: '2014-02-20 08:25:43.961800'
+  updated_at: '2014-02-20 08:25:43.961800'
+categories_003:
+  id: 3
+  name: Природные
+  created_at: '2014-02-20 08:25:59.165800'
+  updated_at: '2014-02-20 08:25:59.165800'
+categories_004:
+  id: 4
+  name: Музейные
+  created_at: '2014-02-20 08:26:18.200800'
+  updated_at: '2014-02-20 08:26:18.200800'
+categories_005:
+  id: 5
+  name: Еще какие-то
+  created_at: '2014-02-20 08:31:49.564800'
+  updated_at: '2014-02-20 08:31:49.564800'
