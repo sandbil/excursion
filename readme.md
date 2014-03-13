@@ -13,10 +13,10 @@ Excursion
 This simple example Rails app, tourist site, catalog excursions 
  
  Ruby version 2.0, Rails 4.0.3
- ## Database creation
+## Database creation
  
  Use rake db:fixtures:load 
  
- ![screenshot1](/public/screenshot1.png "screenshot1"
- ![screenshot2](/public/screenshot2.png "screenshot2"
+![screenshot1](https://raw.github.com/sandbil/excursion/master/public/screenshot1.png "screenshot1")
+![screenshot2](/public/screenshot2.png "screenshot2")
 
