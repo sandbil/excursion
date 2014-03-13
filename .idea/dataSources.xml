@@ -4,19 +4,19 @@
     <data-source source="LOCAL" name="Rails excursion: development" uuid="db73c448-9c32-4adf-95af-610e772ec570">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\work\git\excursion\db\development.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\work\git\Excursion\db\development.sqlite3</jdbc-url>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails excursion: test" uuid="a1eafc0a-7ffd-448d-9dbc-8b1d5aaadff6">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\work\excursion\db\test.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\work\git\Excursion\db\test.sqlite3</jdbc-url>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails excursion: production" uuid="e268d137-06b3-4283-bf13-dc58768e9206">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\work\excursion\db\production.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\work\git\Excursion\db\production.sqlite3</jdbc-url>
       <libraries />
     </data-source>
   </component>
