@@ -17,6 +17,6 @@ This simple example Rails app, tourist site, catalog excursions
  Use rake db:migrate RAILS_ENV=development
  For load fixtures use rake db:fixtures:load 
  
-[![screenshot1](/public/screenshot_th1.png "screenshot1")](/public/screenshot1.png)
-[![screenshot2](/public/screenshot_th2.png "screenshot2")](/public/screenshot2.png)
+[![screenshot1](/public/screenshot_th1.png)](/public/screenshot1.png)
+[![screenshot2](/public/screenshot_th2.png)](/public/screenshot2.png)
 
