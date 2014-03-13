@@ -14,9 +14,9 @@ This simple example Rails app, tourist site, catalog excursions
  
  Ruby version 2.0, Rails 4.0.3
 ## Database creation
+ Use rake db:migrate RAILS_ENV=development
+ For load fixtures use rake db:fixtures:load 
  
- Use rake db:fixtures:load 
- 
-![screenshot1](https://raw.github.com/sandbil/excursion/master/public/screenshot1.png "screenshot1")
-![screenshot2](/public/screenshot2.png "screenshot2")
+[![screenshot1](/public/screenshot_th1.png "screenshot1")](/public/screenshot1.png)
+[![screenshot2](/public/screenshot_th2.png "screenshot2")](/public/screenshot2.png)
 
