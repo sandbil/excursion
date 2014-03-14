@@ -13,6 +13,11 @@ Excursion
 This simple example Rails app, tourist site, catalog excursions 
  
  Ruby version 2.0, Rails 4.0.3
+ 
+## Requirements
+
+  Install ImageMagick.
+  
 ## Database creation
  Use rake db:migrate RAILS_ENV=development
  For load fixtures use rake db:fixtures:load 

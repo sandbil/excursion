@@ -3,7 +3,8 @@ require 'test_helper'
 class CategoriesControllerTest < ActionController::TestCase
   setup do
     @category = categories(:categories_005)
-    @category_not_delete = categories(:categories_002)
+	@category_delete = categories(:categories_003)
+    @category_not_delete = categories(:categories_001)
     @update = {:name => 'qwerty'}
   end
 
@@ -43,7 +44,7 @@ class CategoriesControllerTest < ActionController::TestCase
 
   test "should destroy category" do
     assert_difference('Category.count', -1) do
-      delete :destroy, id: @category
+      delete :destroy, id: @category_delete
     end
 
     assert_redirected_to categories_path

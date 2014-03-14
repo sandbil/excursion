@@ -35,7 +35,7 @@ class TourDetailControllerTest < ActionController::TestCase
       #тест не рабочий
       #пока не разобрался, похоже в девелопе и тесте по разному интерпретируется cookies[:view_history]
       # в одном случае строка, во втором случае массив
-     # assert_select 'ul', /Уральский город/
+      #assert_select 'ul', /Уральский город/
     end
 
   end
