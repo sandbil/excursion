@@ -19,7 +19,7 @@ tours_001:
   category_id: 1
   created_at: '2014-02-21 10:18:35.176000'
   updated_at: '2014-03-01 14:42:05.271000'
-  public: t
+  public: true
 tours_002:
   id: 30
   name: Москва Златоглавая
@@ -32,7 +32,7 @@ tours_002:
   category_id: 2
   created_at: '2014-03-01 03:11:51.757000'
   updated_at: '2014-03-01 06:10:37.521000'
-  public: t
+  public: true
 tours_003:
   id: 31
   name: Вечерняя Москва
@@ -53,7 +53,7 @@ tours_003:
   category_id: 4
   created_at: '2014-03-01 03:16:07.151000'
   updated_at: '2014-03-01 06:34:35.749000'
-  public: t
+  public: true
 tours_004:
   id: 32
   name: 'Белые ночи '
@@ -68,7 +68,7 @@ tours_004:
   category_id: 2
   created_at: '2014-03-01 07:46:39.844000'
   updated_at: '2014-03-11 14:17:45.443000'
-  public: t
+  public: true
 tours_005:
   id: 33
   name: город Новосибирск
@@ -90,7 +90,7 @@ tours_005:
   category_id: 2
   created_at: '2014-03-01 07:51:09.710000'
   updated_at: '2014-03-01 07:52:20.577000'
-  public: t
+  public: true
 tours_006:
   id: 34
   name: Успенский собор
@@ -109,7 +109,7 @@ tours_006:
   category_id: 1
   created_at: '2014-03-01 14:45:58.693000'
   updated_at: '2014-03-01 14:46:19.932000'
-  public: t
+  public: true
 tours_007:
   id: 35
   name: Собор Василия Блаженного
@@ -124,7 +124,7 @@ tours_007:
   category_id: 1
   created_at: '2014-03-01 14:48:57.442000'
   updated_at: '2014-03-01 14:48:57.442000'
-  public: t
+  public: true
 tours_008:
   id: 36
   name: Храм Христа Спасителя
@@ -145,7 +145,7 @@ tours_008:
   category_id: 1
   created_at: '2014-03-01 14:52:41.482000'
   updated_at: '2014-03-01 14:52:41.482000'
-  public: t
+  public: true
 tours_009:
   id: 37
   name: Красная площадь
@@ -161,7 +161,7 @@ tours_009:
   category_id: 1
   created_at: '2014-03-01 14:57:12.621000'
   updated_at: '2014-03-01 14:57:12.621000'
-  public: t
+  public: true
 tours_010:
   id: 39
   name: Арбат
@@ -190,7 +190,7 @@ tours_010:
   category_id: 1
   created_at: '2014-03-02 23:31:19.368275'
   updated_at: '2014-03-02 23:31:19.368275'
-  public: t
+  public: true
 tours_011:
   id: 40
   name: Блистательный Петербург
@@ -209,7 +209,7 @@ tours_011:
   category_id: 2
   created_at: '2014-03-02 23:36:31.540130'
   updated_at: '2014-03-02 23:36:31.540130'
-  public: t
+  public: true
 tours_012:
   id: 41
   name: Блюз Белых ночей
@@ -223,7 +223,7 @@ tours_012:
   category_id: 2
   created_at: '2014-03-02 23:43:00.960588'
   updated_at: '2014-03-02 23:44:20.864158'
-  public: t
+  public: true
 tours_013:
   id: 42
   name: Уральский город
@@ -243,7 +243,7 @@ tours_013:
   category_id: 1
   created_at: '2014-03-03 04:07:43.814035'
   updated_at: '2014-03-12 02:24:36.605026'
-  public: t
+  public: true
 tours_014:
   id: 43
   name: rgdfs
@@ -253,7 +253,7 @@ tours_014:
   category_id: 1
   created_at: '2014-03-06 14:42:39.156400'
   updated_at: '2014-03-06 14:42:39.156400'
-  public: f
+  public: false
 tours_015:
   id: 44
   name: adssd
@@ -263,7 +263,7 @@ tours_015:
   category_id: 1
   created_at: '2014-03-12 00:06:13.033089'
   updated_at: '2014-03-12 01:47:51.465899'
-  public: f
+  public: false
 tours_016:
   id: 45
   name: test
@@ -273,7 +273,7 @@ tours_016:
   category_id: 5
   created_at: '2014-03-12 02:26:33.564716'
   updated_at: '2014-03-12 02:26:55.675980'
-  public: t
+  public: true
 tours_017:
   id: 46
   name: sfadfg
@@ -283,4 +283,4 @@ tours_017:
   category_id: 1
   created_at: '2014-03-14 02:20:41.370148'
   updated_at: '2014-03-14 02:20:41.370148'
-  public: f
+  public: false

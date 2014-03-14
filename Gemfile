@@ -46,3 +46,7 @@ end
 
 gem 'paperclip', '~> 4.1.1'
 gem 'nested_form'
+
+group :production do
+gem 'mysql2'
+end
