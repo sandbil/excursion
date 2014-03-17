@@ -2,14 +2,14 @@ class ExcursController < ApplicationController
 
 
   def index
-     @cities = City.where("id in (select city_id from tours where public = 't')") #.includes(tours: [:category,:tour_photos])
+     @cities = City.where("id in (select city_id from tours where public = true)") #.includes(tours: [:category,:tour_photos])
      @page=1
   end
 
 
   def display
     if params[:city].nil?
-      @city = City.where("id in (select city_id from tours where public = 't')").first
+      @city = City.where("id in (select city_id from tours where public = true)").first
       flash[:notice] = "Параметр не задан, показан первый город"
     else
       @city = City.find(params[:city])
