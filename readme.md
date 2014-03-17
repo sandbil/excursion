@@ -2,10 +2,7 @@
 title: Excursion
 description: simple example Rails app
 author: sandbil
-tags: test, testing, test123
-colors: light yellow
-created:  2014 Mar 12
-modified: 2014 Mar 13
+tags: ruby, ruby on rails test, testing
 
 ---
 Excursion
