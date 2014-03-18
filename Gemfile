@@ -50,3 +50,5 @@ gem 'nested_form'
 group :production do
 gem 'mysql2'
 end
+
+gem 'activeadmin', github: 'gregbell/active_admin'

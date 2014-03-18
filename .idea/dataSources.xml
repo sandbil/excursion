@@ -3,20 +3,23 @@
   <component name="DataSourceManagerImpl" format="xml" hash="4092616726">
     <data-source source="LOCAL" name="Rails excursion: development" uuid="db73c448-9c32-4adf-95af-610e772ec570">
       <driver-ref>sqlite.xerial</driver-ref>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\work\git\Excursion\db\development.sqlite3</jdbc-url>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/dev_excu</jdbc-url>
+      <user-name>root</user-name>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails excursion: test" uuid="a1eafc0a-7ffd-448d-9dbc-8b1d5aaadff6">
       <driver-ref>sqlite.xerial</driver-ref>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\work\git\Excursion\db\test.sqlite3</jdbc-url>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/tst_excu</jdbc-url>
+      <user-name>root</user-name>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails excursion: production" uuid="e268d137-06b3-4283-bf13-dc58768e9206">
       <driver-ref>sqlite.xerial</driver-ref>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\work\git\Excursion\db\production.sqlite3</jdbc-url>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/excursion</jdbc-url>
+      <user-name>root</user-name>
       <libraries />
     </data-source>
   </component>

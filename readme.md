@@ -2,12 +2,19 @@
 title: Excursion
 description: simple example Rails app
 author: sandbil
-tags: ruby, ruby on rails test, testing
+tags: ruby, ruby on rails test, testing, activeadmin
 
 ---
 Excursion
 =========
 This simple example Rails app, tourist site, catalog excursions 
+This versions with ActiveAdmin (https://github.com/gregbell/active_admin).
+
+Visit `http://localhost:3000/admin` and log in as the default user:
+
+* __User__: admin@example.com
+* __Password__: password
+ 
  
  Ruby version 2.0, Rails 4.0.3
  

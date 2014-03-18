@@ -1,4 +1,6 @@
 Excursion::Application.routes.draw do
+  devise_for :admin_users, ActiveAdmin::Devise.config
+  ActiveAdmin.routes(self)
  resources :tours do
       resources :tour_photos
   end
