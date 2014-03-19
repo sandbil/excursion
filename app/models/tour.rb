@@ -9,18 +9,17 @@ class Tour < ActiveRecord::Base
 	validates :name, :description, :city_id, :category_id, presence: true
 	validates :name, uniqueness: { case_sensitive: false }
 
-    PerPage = 5
-    def self.page(pg, city_id)
+    PerPageTour = 5
+    def self.tour_page(pg, city_id)
       pg = pg.to_i - 1
-      self.order('id').where(city_id: city_id).limit(PerPage).offset((pg)*PerPage)
+      self.order('id').where(city_id: city_id).limit(PerPageTour).offset((pg)*PerPageTour)
     end
 
     def self.pgcount(city_id)
-        #count % PerPage == 0 ? self.where(city_id: city_id).count / (PerPage + 1) : self.where(city_id: city_id).count / (PerPage + 1)
-      if PerPage == 0
-        (self.where(city_id: city_id).count.to_f / (PerPage + 1)).ceil
+      if PerPageTour == 0
+        (self.where(city_id: city_id).count.to_f / (PerPageTour + 1)).ceil
       else
-        (self.where(city_id: city_id).count.to_f / PerPage).ceil
+        (self.where(city_id: city_id).count.to_f / PerPageTour).ceil
       end
     end
 

@@ -3,7 +3,7 @@
         <div class="tour-container" >
           <%= content_tag(:div, make_link_prev( @page.to_i, city), class: "tour-prev") %>
              <ul class="tour-list">
-                <% for tour in Tour.page(@page, city).includes(:city,:category,:tour_photos) %>
+                <% for tour in Tour.tour_page(@page, city).includes(:city,:category,:tour_photos) %>
                    <%= render partial: "shared/tour", locals: {tour: tour} %>
                 <% end %>
             </ul>

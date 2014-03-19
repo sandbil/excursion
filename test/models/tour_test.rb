@@ -60,8 +60,8 @@ class TourTest < ActiveSupport::TestCase
   end
 
   test "page" do
-    assert_equal "Храм Христа Спасителя" , Tour.page(2,cities(:cities_001).id).first.name , "1 error page"
+    assert_equal "Храм Христа Спасителя" , Tour.tour_page(2,cities(:cities_001).id).first.name , "1 error page"
     # 3 страницы не существует
-    assert_equal true , Tour.page(3,cities(:cities_001).id).first.nil? , "2 error page"
+    assert_equal true , Tour.tour_page(3,cities(:cities_001).id).first.nil? , "2 error page"
   end
 end
