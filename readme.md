@@ -7,8 +7,8 @@ tags: ruby, ruby on rails test, testing, activeadmin
 ---
 Excursion
 =========
-This simple example Rails app, tourist site, catalog excursions 
-This versions with ActiveAdmin (https://github.com/gregbell/active_admin).
+This is simple example of Rails app, tourist site, catalog excursions 
+This is versions with ActiveAdmin (https://github.com/gregbell/active_admin).
 
 Visit `http://localhost:3000/admin` and log in as the default user:
 
